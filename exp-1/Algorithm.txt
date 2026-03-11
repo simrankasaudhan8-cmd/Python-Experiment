@@ -1,0 +1,33 @@
+Step 1: Start the program.
+
+Step 2: Declare variable a and assign integer value 10.
+
+Step 3: Declare variable b and assign float value 5.5.
+
+Step 4: Declare variable c and assign string value "Python".
+
+Step 5: Declare variable d and assign boolean value True.
+
+Step 6: Display the values of a, b, c, and d with labels Integer, Float, String, and Boolean.
+
+Step 7: Declare variable x and assign value 10.
+
+Step 8: Declare variable y and assign value 3.
+
+Step 9: Perform arithmetic operations between x and y:
+
+Addition (x + y)
+
+Subtraction (x - y)
+
+Multiplication (x * y)
+
+Division (x / y)
+
+Modulus (x % y)
+
+Exponent (x ** y)
+
+Step 10: Display the results of all arithmetic operations.
+
+Step 11: Stop the program.
