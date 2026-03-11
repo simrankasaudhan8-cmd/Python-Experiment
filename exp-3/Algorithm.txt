@@ -1,0 +1,35 @@
+Step 1
+
+Start the program.
+
+Step 2
+
+Declare two string variables:
+
+str1 = "Hello"
+
+str2 = "Python"
+
+Step 3
+
+Perform string concatenation by joining str1 and str2 with a space between them and print the result.
+
+Step 4
+
+Find the length of str1 using the len() function and print it.
+
+Step 5
+
+Convert str1 into uppercase using the upper() method and print it.
+
+Step 6
+
+Convert str2 into lowercase using the lower() method and print it.
+
+Step 7
+
+Perform string slicing on str2 from index 0 to 3 and print the result.
+
+Step 8
+
+Stop the program.
