@@ -1,0 +1,4 @@
+Dictionary: {'name': 'Simran', 'age': 20, 'course': 'BCA'}
+Updated age: {'name': 'Simran', 'age': 21, 'course': 'BCA'}
+Keys: dict_keys(['name', 'age', 'course'])
+Values: dict_values(['Simran', 21, 'BCA'])

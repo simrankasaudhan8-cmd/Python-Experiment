@@ -1,0 +1,20 @@
+Step 1: Start.
+
+Step 2: Create a dictionary student with keys name, age, course and values Simran, 20, BCA.
+
+Step 3: Print the dictionary using print("Dictionary:", student).
+
+Step 4: Update the value of age to 21 using student["age"] = 21.
+
+Step 5: Print the updated dictionary.
+
+Step 6: Display all keys of the dictionary using student.keys().
+
+Step 7: Print the keys.
+
+Step 8: Display all values of the dictionary using student.values().
+
+Step 9: Print the values.
+
+Step 10: Stop.
+
