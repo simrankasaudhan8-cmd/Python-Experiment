@@ -1,0 +1,47 @@
+Step 1
+
+Start the program.
+
+Step 2
+
+Create a list named list1 with elements 10, 20, 30, 40.
+
+Step 3
+
+Use the append() method to add the element 50 at the end of the list.
+
+Step 4
+
+Print the list after appending the element.
+
+Step 5
+
+Use the remove() method to delete the element 20 from the list.
+
+Step 6
+
+Print the list after removing the element.
+
+Step 7
+
+Use the insert() method to insert the value 25 at index position 1.
+
+Step 8
+
+Print the list after inserting the element.
+
+Step 9
+
+Find the length of the list using len() and print it.
+
+Step 10
+
+Find the maximum value in the list using max() and print it.
+
+Step 11
+
+Find the minimum value in the list using min() and print it.
+
+Step 12
+
+Stop the program.
