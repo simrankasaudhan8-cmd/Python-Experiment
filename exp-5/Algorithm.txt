@@ -1,0 +1,25 @@
+Step 1: Start
+
+Step 2: Create a tuple tup = (10, 20, 30, 40)
+
+Step 3: Print the tuple.
+
+Step 4: Find the length of the tuple using len() function.
+
+Step 5: Print the length of the tuple.
+
+Step 6: Find the maximum value in the tuple using max() function.
+
+Step 7: Print the maximum value.
+
+Step 8: Find the minimum value in the tuple using min() function.
+
+Step 9: Print the minimum value.
+
+Step 10: Find the index of element 30 using tup.index(30).
+
+Step 11: Print the index value.
+
+Step 12: Stop.
+
+
