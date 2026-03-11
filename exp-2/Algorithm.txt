@@ -1,0 +1,52 @@
+Step 1: Start the program.
+Step 2: Input
+
+Ask the user to enter a number and store it in the variable num.
+
+Step 3: Check Even or Odd
+
+Check the condition:
+
+If num % 2 == 0
+
+Print "Even number"
+
+Else
+
+Print "Odd number"
+
+Step 4: For Loop
+
+Print the message "For loop:"
+
+Step 5:
+
+Use a for loop to print numbers from 1 to 5 using range(1,6).
+
+Step 6: While Loop
+
+Print the message "While loop:"
+
+Step 7:
+
+Initialize variable i = 1.
+
+Step 8:
+
+Use a while loop with condition i <= 5.
+
+Step 9:
+
+Inside the loop:
+
+Print the value of i
+
+Increase i by 1 (i = i + 1)
+
+Step 10:
+
+Repeat until i becomes greater than 5.
+
+Step 11:
+
+Stop the program.
